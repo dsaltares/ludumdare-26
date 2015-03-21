@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module>
+    <entry-point class="com.siondream.ld26.client.GwtLauncher"/>
+    <set-configuration-property name="gdx.assetpath" value="../ludum-dare-android/assets"/>
+    <inherits name="LudumDare"/>
+    <inherits name="aurelienribon.tweenengine"/>
+    <inherits name="com.badlogic.gdx.backends.gdx_backends_gwt"/>
+</module>
